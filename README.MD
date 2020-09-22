@@ -3,12 +3,9 @@ You need Node, NPM and MongoDB properly installed.
 
 Clone this repository
 ``` shell
-    git clone https://github.com/brenohq/nodejs-shopping-cart.git
+    git clone https://github.com/chiggyy/ChiragProductsShoppingCart.git
 ```
-Setup the environment variables replacing <MONGODB-PORT> with your mongodb port, usually is 27017.
-``` shell
-    export MONGO_DB_URI=mongodb://localhost:<MONGODB-PORT>/shopping
-```
+
 Install dependencies
 ``` shell
     npm install
